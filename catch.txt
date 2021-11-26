@@ -1,11 +1,12 @@
 Szymon
 
 Title
-[SS] Fruit catcher
+[SS] Panda catcher
 
 Elavator Pitch
 ...
-30 second  gameplay description
+[SS] You play as a panda that is catching food for himself, the objective of the game is to catch as 
+much food as possible without letting any of it drop on the grounds
 ...
 Pillars
 ...
