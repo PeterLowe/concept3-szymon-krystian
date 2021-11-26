@@ -2,7 +2,7 @@ Creators:
 Szymon, Krystian
 
 Title:
-Catch Game
+[SS] Panda catcher
 
 Elavator Pitch:
 [KS]The game will be about catching an object to gain points
@@ -13,6 +13,12 @@ but you will have to avoid some of them as they will make you lose points
 throw trash at him, avoid the trash and catch bamboo to eat.
 
 Pillars:
-...
+[SS] Good level design, Fun gameplay, Rewarding gameplay, Lovable main character
+
 Features:
-...
+[SS] Get rewards for how well you play, and how many food you catch. Multiple levels that 
+the player can unlock and keep progressing through the game. Customize your own panda,
+with unlockable cosmetics! Multiple achievements to unlock within the game.
+
+
+
